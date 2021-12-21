@@ -1,20 +1,21 @@
 class Solution {
     public int reverse(int x) {
-        String strX = String.valueOf(x);
-        String result = "";
-        if (strX.substring(0,1).equals("-")) {
-            result = "-";
-            strX = strX.substring(1);
-        } 
-        while (strX.length() > 1) {
-            result += strX.substring(strX.length()-1);
-            strX = strX.substring(0, strX.length()-1); 
+        int numChars = 0;
+        long l = 0;
+        if (x < 0) {
+            numChars = String.valueOf(x).length() - 1;
+            
+        } else {
+            numChars = String.valueOf(x).length();
         }
-        result += strX;
-        if (Long.parseLong(result) >= Math.pow(2, 31)-1 || Long.parseLong(result) <= -1*Math.pow(2, 31)) {
-            return 0;
+        for (int i = 0; i < numChars; i++) {
+            l += (x%10)*Math.pow(10,(numChars-i)-1);
+            x /= 10;
         }
         
-        return Integer.parseInt(result);
+        if (l >= Math.pow(2, 31)-1 || l <= -1*Math.pow(2, 31)) {
+            return 0;
+        }
+        return (int)l;
     }
 }
