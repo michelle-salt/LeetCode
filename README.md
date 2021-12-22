@@ -5,6 +5,7 @@ A compilation of all my LeetCode solutions
 
 | # | Title | Solution | Difficulty | Date Completed |
 |---| ----- | -------- | ---------- | -------------- |
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Solutions/Array/pascalsTriangle.py)|Easy|December 22, 2021|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](./Solutions/Array/reshapeTheMatrix.java)|Easy|December 21, 2021|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Solutions/Array/bestTimeToBuyAndSellStock.py)|Easy|November 21, 2021|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](./Solutions/Array/intersectionOfTwoArraysII.py)|Easy|November 16, 2021|
