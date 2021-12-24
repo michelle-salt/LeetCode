@@ -11,3 +11,15 @@ class Solution:
                 return False
             magazine = magazine.replace(ransomNote[i], '', 1)
         return True
+    
+        #solution without string methods:
+        countLetter = [0]*26
+        
+        for i in range(len(magazine)):
+            countLetter[ord(magazine[i]) - ord('a')] += 1
+        
+        for i in range(len(ransomNote)):
+            countLetter[ord(ransomNote[i]) - ord('a')] -= 1
+            if countLetter[ord(ransomNote[i]) - ord('a')] == -1:
+                return False
+        return True
