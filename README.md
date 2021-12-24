@@ -5,6 +5,7 @@ A compilation of all my LeetCode solutions
 
 | # | Title | Solution | Difficulty | Date Completed |
 |---| ----- | -------- | ---------- | -------------- |
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./Solutions/Array/searchA2dMatrix.py)|Medium|December 23, 2021|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./Solutions/Array/validSudoku.py)|Medium|December 23, 2021|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Solutions/Array/pascalsTriangle.py)|Easy|December 22, 2021|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](./Solutions/Array/reshapeTheMatrix.java)|Easy|December 21, 2021|
