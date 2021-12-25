@@ -5,6 +5,7 @@ A compilation of all my LeetCode solutions
 
 | # | Title | Solution | Difficulty | Date Completed |
 |---| ----- | -------- | ---------- | -------------- |
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Solutions/String/validAnagram.py)|Easy|December 24/25, 2021|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./Solutions/String/ransomNote.py)|Easy|December 24, 2021|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./Solutions/String/firstUniqueCharacterInAString.py)|Easy|December 23, 2021|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./Solutions/Array/searchA2dMatrix.py)|Medium|December 23, 2021|
