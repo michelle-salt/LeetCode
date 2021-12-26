@@ -5,6 +5,7 @@ A compilation of all my LeetCode solutions
 
 | # | Title | Solution | Difficulty | Date Completed |
 |---| ----- | -------- | ---------- | -------------- |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Solutions/LinkedList/mergeTwoSortedLists.py)|Easy|December 26, 2021|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./Solutions/LinkedList/linkedListCycle.py)|Easy|December 25, 2021|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Solutions/String/validAnagram.py)|Easy|December 24/25, 2021|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./Solutions/String/ransomNote.py)|Easy|December 24, 2021|
