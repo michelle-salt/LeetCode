@@ -5,6 +5,7 @@ A compilation of all my LeetCode solutions
 
 | # | Title | Solution | Difficulty | Date Completed |
 |---| ----- | -------- | ---------- | -------------- |
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Solutions/LinkedList/reverseLinkedList.py)|Easy|December 27, 2021|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./Solutions/LinkedList/removeLinkedListElements.py)|Easy|December 27, 2021|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Solutions/LinkedList/mergeTwoSortedLists.py)|Easy|December 26, 2021|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./Solutions/LinkedList/linkedListCycle.py)|Easy|December 25, 2021|
