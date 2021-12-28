@@ -5,6 +5,7 @@ A compilation of all my LeetCode solutions
 
 | # | Title | Solution | Difficulty | Date Completed |
 |---| ----- | -------- | ---------- | -------------- |
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Solutions/StacksAndQueues/validParentheses.py)|Easy|December 28, 2021|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./Solutions/LinkedList/removeDuplicatesFromSortedList.py)|Easy|December 27, 2021|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Solutions/LinkedList/reverseLinkedList.py)|Easy|December 27, 2021|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./Solutions/LinkedList/removeLinkedListElements.py)|Easy|December 27, 2021|
