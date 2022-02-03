@@ -5,6 +5,7 @@ A compilation of all my LeetCode solutions
 
 | # | Title | Solution | Difficulty | Date Completed |
 |---| ----- | -------- | ---------- | -------------- |
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./Solutions/LinkedList/palindromeLinkedList.py)|Easy|February 3, 2022|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](./Solutions/LinkedList/deleteNodeInALinkedList.py)|Easy|February 3, 2022|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Solutions/StacksAndQueues/validParentheses.py)|Easy|December 28, 2021|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./Solutions/LinkedList/removeDuplicatesFromSortedList.py)|Easy|December 27, 2021|
