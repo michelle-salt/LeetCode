@@ -5,6 +5,7 @@ A compilation of all my LeetCode solutions
 
 | # | Title | Solution | Difficulty | Date Completed |
 |---| ----- | -------- | ---------- | -------------- |
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./Solutions/TreesAndGraphs/maximumDepthOfBinaryTree.py)|Easy|February 4, 2022|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./Solutions/LinkedList/palindromeLinkedList.py)|Easy|February 3, 2022|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](./Solutions/LinkedList/deleteNodeInALinkedList.py)|Easy|February 3, 2022|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Solutions/StacksAndQueues/validParentheses.py)|Easy|December 28, 2021|
