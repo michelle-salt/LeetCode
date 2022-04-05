@@ -5,6 +5,7 @@ A compilation of all my LeetCode solutions
 
 | # | Title | Solution | Difficulty | Date Completed |
 |---| ----- | -------- | ---------- | -------------- |
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./Solutions/TreesAndGraphs/binaryTreeInorderTraversal.java)|Easy|April 4, 2022|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Java](./Solutions/TreesAndGraphs/n-aryTreePostorderTraversal.java)|Easy|April 4, 2022|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](./Solutions/TreesAndGraphs/n-aryTreePreorderTraversal.java)|Easy|April 4, 2022|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Java](./Solutions/TreesAndGraphs/rangeSumOfBST.java)|Easy|April 4, 2022|
